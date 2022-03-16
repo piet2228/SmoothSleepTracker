@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SmoothSleepTracker</string>
+    <string name="startBtn">Start Tracking</string>
+    <string name="interruption">Interruption</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="view_stats">View Stats</string>
+    <string name="temp">temp-value</string>
 </resources>
